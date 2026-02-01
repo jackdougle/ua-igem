@@ -18,10 +18,10 @@ function Contact() {
         <p className="mx-2 mt-1">We’re eager to partner with organizations aligned with our mission. Sponsor support helps fund research, travel, and equipment costs. For any inquiries, please send us an email!</p>
         </div>
         <p className="text-gray-800 text-2xl translate-x-1 font-extrabold font-mono">Reach out with any questions</p>
-        <p className="mx-2 mt-1">The UA SynBio Society is always looking for suggestions, advice, and new ideas to consider. If you have any ideas on how we can improve we'd love to talk. Also, if you have any questions regarding donations, the application process, or our current research, don't hesitate to reach out.</p>
-        <p className="m-2 mt-2">Our email: <strong className="text-sky-500 font-mono font-bold text-lg hover:text-sky-300 transition duration-300">synbioua@gmail.com</strong></p><br />
+        <p className="mx-2 mt-1">UA iGEM is always looking for suggestions, advice, and new ideas to consider. If you have any ideas on how we can improve we'd love to talk. Also, if you have any questions regarding donations, the application process, or our current research, don't hesitate to reach out.</p>
+        <p className="m-2 mt-2">Our email: <strong className="text-sky-500 font-mono font-bold text-lg hover:text-sky-300 transition duration-300">uazigem@gmail.com</strong></p><br />
         <div className="grid place-items-center -mt-6 mb-4 font-sans font-normal">
-        <form className="flex flex-col gap-3 w-17/20 text-black text-[20px]" action="https://formsubmit.co/e8b819c9bf64cfb7361f1ee556a165a4" method="POST">
+        <form className="flex flex-col gap-3 w-17/20 text-black text-[20px]" action="https://formsubmit.co/uazigem@gmail.com" method="POST">
           <strong className="font-mono font-normal text-[16px]">Name</strong> <input type="text" name="name" className="border-2 border-black rounded-lg p-3 w-full -mt-2 bg-white" required />
           <strong className="font-mono font-normal text-[16px]">Email</strong> <input type="email" name="email" className="border-2 border-black rounded-lg p-3 -mt-2 bg-white" required />
           <strong className="font-mono font-normal text-[16px]">Message</strong> <textarea type="text" name="message" className="border-2 border-black rounded-lg p-3 min-h-75 -mt-2 bg-white" required />

@@ -6,8 +6,8 @@ function Home() {
     return(
         <AnimWrapper>
           <div className="flex flex-col font-mono bg-gradient-to-r from-purple-400 to-green-400 bg-clip-text text-transparent font-extrabold mx-6 my-2">
-            <p className="text-[40px] sm:text-[70px] bg-gradient-to-r from-blue-400 to-red-500 bg-clip-text text-transparent -mt-2">The SynBio Society @ UA</p>
-            <p className="text-gray-800 text-2xl translate-x-1">The new home of iGEM and other emerging biology endeavors at UA</p>
+            <p className="text-[40px] sm:text-[70px] bg-gradient-to-r from-blue-400 to-red-500 bg-clip-text text-transparent -mt-2">iGEM @ UArizona</p>
+            <p className="text-gray-800 text-2xl translate-x-1">The new home of synthetic biology endeavors at UA!</p>
           </div>
           <div className="relative w-full h-[700px] mt-8 mb-10 xs:hidden">
             <div className="absolute top-0 left-0 w-full h-20 bg-gradient-to-b from-white to-transparent"></div>
@@ -17,8 +17,7 @@ function Home() {
           <div className="font-sans flex flex-col justify-center text-[21px] px-8 mr-6">
             <div className="flex flex-col m-4 font-light">
               <p className="text-2xl font-bold font-mono mb-2">What do we do?</p>
-              <p>The UA SynBio Society is a new UA club focused on synthetic biology and getting interested students involved. We are a group of undergraduate students from various majors who are passionate about synthetic biology and its potential to solve real-world problems. Our primary way of creating impact is through facilitating the construction of teams to compete in international synthetic biology competitions, primarily <strong>iGEM</strong>. Our teams will be comprised of students dedicated to creating innovative solutions that can make a positive impact on society.</p>
-              <p className="mt-2">We work on projects that involve designing and building biological systems using synthetic biology techniques. Our goal is to contribute to the field of synthetic biology and to inspire others to explore its possibilities.</p>
+              <p>UA iGEM focuses on spreading interest about synthetic biology through hands-on projects. We are a group of undergraduate students from various majors who are passionate about emerging biology and its potential to solve real-world problems. Our primary way of creating impact is through facilitating the construction of teams to compete in international synthetic biology competitions, primarily <strong>iGEM</strong>.</p>
               <Link to="/projects" className="font-mono font-bold mt-2 text-lg text-sky-500 hover:text-sky-300 transition duration-300">Our work &rarr;</Link>
             </div>
             <div className="flex flex-col m-4 font-light">

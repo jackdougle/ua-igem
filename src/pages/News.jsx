@@ -10,7 +10,7 @@ function News() {
           transition={{ repeat: Infinity, repeatType: "loop", duration: 12, ease: "linear" }}
         >
           <p className="text-white font-mono font-bold text-2xl px-5">
-            October 2025 NEOTERIC NEWS: We are now an official club at the University of Arizona!
+            February 2026 NEOTERIC NEWS: With official support from the BIO5 Institute, UA iGEM is ready to begin innovative lab work.
           </p>
         </motion.div>
       </div>
